@@ -1,0 +1,9 @@
+{
+  "name": "F4 Danh bạ",
+  "short_name": "F4 Danh bạ",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0468d7",
+  "description": "Lab F4 - Điều hướng đa màn hình trong Flutter"
+}
